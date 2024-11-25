@@ -1,0 +1,3719 @@
+{
+  "created": "2024-11-20T16:09:17+01:00",
+  "distanceFromLocation": 401,
+  "url": "https://www.barentswatch.no/bolgevarsel/point/9.8341_58.9656",
+  "displayUrl": "barentswatch.no/bolgevarsel/",
+  "units": {
+    "distanceFromLocation": "m",
+    "seaCurrentDirection": "degrees",
+    "seaCurrentSpeed": "cm/s",
+    "seaWaveDirection": "degrees",
+    "seaWaveHeight": "m",
+    "temperature": "celcius",
+    "windDirection": "degrees",
+    "windGust": "m/s",
+    "windSpeed": "m/s"
+  },
+  "dayIntervals": [
+    {
+      "start": "2024-11-20T18:00:00+01:00",
+      "end": "2024-11-20T23:00:00+01:00",
+      "sixHourSymbols": [
+        null,
+        null,
+        null,
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "temperature": {
+        "value": -0.6,
+        "min": -1.4,
+        "max": -0.3
+      },
+      "wind": {
+        "min": 4.2,
+        "max": 4.6,
+        "maxGust": 7
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 0.2,
+          "minHeight": 0.2
+        },
+        "current": {
+          "maxSpeed": 20,
+          "minSpeed": 20
+        },
+        "temperature": {
+          "min": 9.8,
+          "max": 9.8
+        }
+      }
+    },
+    {
+      "start": "2024-11-21T00:00:00+01:00",
+      "end": "2024-11-21T23:00:00+01:00",
+      "sixHourSymbols": [
+        "clearsky_night",
+        "fair_day",
+        "fair_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "temperature": {
+        "value": 0.1,
+        "min": -4.2,
+        "max": 0.1
+      },
+      "wind": {
+        "min": 3.1,
+        "max": 4.8,
+        "maxGust": 7.2
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 0.2,
+          "minHeight": 0.1
+        },
+        "current": {
+          "maxSpeed": 30,
+          "minSpeed": 20
+        },
+        "temperature": {
+          "min": 8.7,
+          "max": 9.6
+        }
+      }
+    },
+    {
+      "start": "2024-11-22T00:00:00+01:00",
+      "end": "2024-11-22T23:00:00+01:00",
+      "sixHourSymbols": [
+        "clearsky_night",
+        "clearsky_day",
+        "clearsky_day",
+        "fair_night"
+      ],
+      "symbolConfidence": "Certain",
+      "temperature": {
+        "value": -1.1,
+        "min": -4.9,
+        "max": 0
+      },
+      "wind": {
+        "min": 3.9,
+        "max": 5.2,
+        "maxGust": 8.2
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 0.2,
+          "minHeight": 0.1
+        },
+        "current": {
+          "maxSpeed": 10,
+          "minSpeed": 10
+        },
+        "temperature": {
+          "min": 8.7,
+          "max": 8.9
+        }
+      }
+    },
+    {
+      "start": "2024-11-23T00:00:00+01:00",
+      "end": "2024-11-23T23:00:00+01:00",
+      "sixHourSymbols": [
+        "partlycloudy_night",
+        "partlycloudy_day",
+        "partlycloudy_day",
+        "cloudy"
+      ],
+      "symbolConfidence": "Certain",
+      "temperature": {
+        "value": 3.8,
+        "min": -0.1,
+        "max": 3.8
+      },
+      "wind": {
+        "min": 2.6,
+        "max": 6.1,
+        "maxGust": 8
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 0.7,
+          "minHeight": 0.5
+        },
+        "current": {
+          "maxSpeed": 20,
+          "minSpeed": 10
+        },
+        "temperature": {
+          "min": 8.6,
+          "max": 9.4
+        }
+      }
+    },
+    {
+      "start": "2024-11-24T00:00:00+01:00",
+      "end": "2024-11-24T23:00:00+01:00",
+      "sixHourSymbols": [
+        "rain",
+        "heavyrain",
+        "rain",
+        "cloudy"
+      ],
+      "symbolConfidence": "Certain",
+      "temperature": {
+        "value": 6.7,
+        "min": 2.2,
+        "max": 8.3
+      },
+      "wind": {
+        "min": 3.7,
+        "max": 12.1
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 3.3,
+          "minHeight": 0.5
+        },
+        "current": {
+          "maxSpeed": 30,
+          "minSpeed": 0
+        },
+        "temperature": {
+          "min": 8.1,
+          "max": 8.7
+        }
+      }
+    },
+    {
+      "start": "2024-11-25T00:00:00+01:00",
+      "end": "2024-11-25T23:00:00+01:00",
+      "sixHourSymbols": [
+        "rain",
+        "cloudy",
+        "cloudy",
+        "rain"
+      ],
+      "symbolConfidence": "Uncertain",
+      "temperature": {
+        "value": 9.4,
+        "min": 7.7,
+        "max": 9.4
+      },
+      "wind": {
+        "min": 9.3,
+        "max": 10.7
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 3.7,
+          "minHeight": 2.8
+        },
+        "current": {
+          "maxSpeed": 10,
+          "minSpeed": 0
+        },
+        "temperature": {
+          "min": 8.2,
+          "max": 10.1
+        }
+      }
+    },
+    {
+      "start": "2024-11-26T00:00:00+01:00",
+      "end": "2024-11-26T23:00:00+01:00",
+      "sixHourSymbols": [
+        "cloudy",
+        "partlycloudy_day",
+        "partlycloudy_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Uncertain",
+      "temperature": {
+        "value": 8.2,
+        "min": 3.8,
+        "max": 8.6
+      },
+      "wind": {
+        "min": 6.7,
+        "max": 10.3
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 2.8,
+          "minHeight": 1.6
+        },
+        "current": {
+          "maxSpeed": 10,
+          "minSpeed": 0
+        },
+        "temperature": {
+          "min": 10.1,
+          "max": 10.1
+        }
+      }
+    },
+    {
+      "start": "2024-11-27T00:00:00+01:00",
+      "end": "2024-11-27T23:00:00+01:00",
+      "sixHourSymbols": [
+        "fair_night",
+        "fair_day",
+        "partlycloudy_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Uncertain",
+      "temperature": {
+        "value": 3.6,
+        "min": 1,
+        "max": 3.9
+      },
+      "wind": {
+        "min": 4.3,
+        "max": 5.1
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 1.3,
+          "minHeight": 0.3
+        },
+        "current": {
+          "maxSpeed": 0,
+          "minSpeed": 0
+        },
+        "temperature": {
+          "min": 10.3,
+          "max": 10.3
+        }
+      }
+    },
+    {
+      "start": "2024-11-28T00:00:00+01:00",
+      "end": "2024-11-28T23:00:00+01:00",
+      "sixHourSymbols": [
+        "clearsky_night",
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Uncertain",
+      "temperature": {
+        "value": 2.4,
+        "min": -0.3,
+        "max": 2.4
+      },
+      "wind": {
+        "min": 4.1,
+        "max": 4.7
+      },
+      "sea": {
+        "wave": {
+          "maxHeight": 0.3,
+          "minHeight": 0.1
+        },
+        "current": {
+          "maxSpeed": 0,
+          "minSpeed": 0
+        },
+        "temperature": {
+          "min": 10.2,
+          "max": 10.3
+        }
+      }
+    }
+  ],
+  "shortIntervals": [
+    {
+      "start": "2024-11-20T19:00:00+01:00",
+      "end": "2024-11-20T20:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 118,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 119,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.8
+        }
+      },
+      "temperature": {
+        "value": -0.6,
+        "probability": {
+          "tenPercentile": -1.4,
+          "ninetyPercentile": 0.4
+        }
+      },
+      "wind": {
+        "direction": 340,
+        "gust": 6.6,
+        "speed": 4.3,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-20T20:00:00+01:00",
+      "end": "2024-11-20T21:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 121,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 90,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.8
+        }
+      },
+      "temperature": {
+        "value": -0.8,
+        "probability": {
+          "tenPercentile": -1.7,
+          "ninetyPercentile": 0.3
+        }
+      },
+      "wind": {
+        "direction": 336,
+        "gust": 6.4,
+        "speed": 4.2,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-20T21:00:00+01:00",
+      "end": "2024-11-20T22:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 120,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 52,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.7
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "probability": {
+          "tenPercentile": -2,
+          "ninetyPercentile": 0.1
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 6.7,
+        "speed": 4.5,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 4.7
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-20T22:00:00+01:00",
+      "end": "2024-11-20T23:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 119,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 21,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.7
+        }
+      },
+      "temperature": {
+        "value": -1.2,
+        "probability": {
+          "tenPercentile": -2.4,
+          "ninetyPercentile": 0
+        }
+      },
+      "wind": {
+        "direction": 332,
+        "gust": 6.7,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 4,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-20T23:00:00+01:00",
+      "end": "2024-11-21T00:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 118,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 359,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.7
+        }
+      },
+      "temperature": {
+        "value": -1.4,
+        "probability": {
+          "tenPercentile": -2.7,
+          "ninetyPercentile": -0.1
+        }
+      },
+      "wind": {
+        "direction": 329,
+        "gust": 6.8,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 4.8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-21T00:00:00+01:00",
+      "end": "2024-11-21T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 117,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 358,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.6
+        }
+      },
+      "temperature": {
+        "value": -1.5,
+        "probability": {
+          "tenPercentile": -2.9,
+          "ninetyPercentile": -0.1
+        }
+      },
+      "wind": {
+        "direction": 328,
+        "gust": 6.9,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 5.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T01:00:00+01:00",
+      "end": "2024-11-21T02:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 119,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 21,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.6
+        }
+      },
+      "temperature": {
+        "value": -1.6,
+        "probability": {
+          "tenPercentile": -3.2,
+          "ninetyPercentile": -0.2
+        }
+      },
+      "wind": {
+        "direction": 331,
+        "gust": 6.9,
+        "speed": 4.7,
+        "probability": {
+          "tenPercentile": 4,
+          "ninetyPercentile": 5.7
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T02:00:00+01:00",
+      "end": "2024-11-21T03:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 122,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 12,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.5
+        }
+      },
+      "temperature": {
+        "value": -1.8,
+        "probability": {
+          "tenPercentile": -3.4,
+          "ninetyPercentile": -0.3
+        }
+      },
+      "wind": {
+        "direction": 334,
+        "gust": 7,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T03:00:00+01:00",
+      "end": "2024-11-21T04:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 122,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 334,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.3
+        }
+      },
+      "temperature": {
+        "value": -1.9,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": -0.4
+        }
+      },
+      "wind": {
+        "direction": 335,
+        "gust": 6.9,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T04:00:00+01:00",
+      "end": "2024-11-21T05:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 123,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 324,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.2
+        }
+      },
+      "temperature": {
+        "value": -2,
+        "probability": {
+          "tenPercentile": -3.6,
+          "ninetyPercentile": -0.5
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 7.1,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T05:00:00+01:00",
+      "end": "2024-11-21T06:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 123,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 327,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.1
+        }
+      },
+      "temperature": {
+        "value": -2.1,
+        "probability": {
+          "tenPercentile": -3.8,
+          "ninetyPercentile": -0.6
+        }
+      },
+      "wind": {
+        "direction": 332,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 5.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T06:00:00+01:00",
+      "end": "2024-11-21T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 325,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -2.3,
+        "probability": {
+          "tenPercentile": -4,
+          "ninetyPercentile": -0.7
+        }
+      },
+      "wind": {
+        "direction": 333,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T07:00:00+01:00",
+      "end": "2024-11-21T08:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 322,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -2.2,
+        "probability": {
+          "tenPercentile": -3.9,
+          "ninetyPercentile": -0.7
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T08:00:00+01:00",
+      "end": "2024-11-21T09:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 322,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -2.2,
+        "probability": {
+          "tenPercentile": -3.9,
+          "ninetyPercentile": -0.6
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 7.1,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 5.1
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T09:00:00+01:00",
+      "end": "2024-11-21T10:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 322,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -2.2,
+        "probability": {
+          "tenPercentile": -3.9,
+          "ninetyPercentile": -0.7
+        }
+      },
+      "wind": {
+        "direction": 334,
+        "gust": 7.1,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 4.1,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T10:00:00+01:00",
+      "end": "2024-11-21T11:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 125,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 322,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -1.8,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": -0.3
+        }
+      },
+      "wind": {
+        "direction": 335,
+        "gust": 6.9,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 4.8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T11:00:00+01:00",
+      "end": "2024-11-21T12:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 322,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -1.1,
+        "probability": {
+          "tenPercentile": -2.7,
+          "ninetyPercentile": 0.3
+        }
+      },
+      "wind": {
+        "direction": 340,
+        "gust": 6.7,
+        "speed": 4.1,
+        "probability": {
+          "tenPercentile": 3.5,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T12:00:00+01:00",
+      "end": "2024-11-21T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 326,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -0.3,
+        "probability": {
+          "tenPercentile": -1.9,
+          "ninetyPercentile": 1
+        }
+      },
+      "wind": {
+        "direction": 340,
+        "gust": 6.3,
+        "speed": 3.8,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T13:00:00+01:00",
+      "end": "2024-11-21T14:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 125,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 336,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": 0.1,
+        "probability": {
+          "tenPercentile": -1.4,
+          "ninetyPercentile": 1.4
+        }
+      },
+      "wind": {
+        "direction": 348,
+        "gust": 6,
+        "speed": 3.6,
+        "probability": {
+          "tenPercentile": 3.1,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T14:00:00+01:00",
+      "end": "2024-11-21T15:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 126,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 354,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": 0.1,
+        "probability": {
+          "tenPercentile": -1.4,
+          "ninetyPercentile": 1.5
+        }
+      },
+      "wind": {
+        "direction": 343,
+        "gust": 5.9,
+        "speed": 3.4,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-21T15:00:00+01:00",
+      "end": "2024-11-21T16:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 126,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 5,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -0.1,
+        "probability": {
+          "tenPercentile": -1.7,
+          "ninetyPercentile": 1.3
+        }
+      },
+      "wind": {
+        "direction": 350,
+        "gust": 6,
+        "speed": 3.7,
+        "probability": {
+          "tenPercentile": 3.1,
+          "ninetyPercentile": 5.1
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "fair_night",
+        "next12Hours": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-21T16:00:00+01:00",
+      "end": "2024-11-21T17:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 126,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 37,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -0.8,
+        "probability": {
+          "tenPercentile": -2.6,
+          "ninetyPercentile": 0.7
+        }
+      },
+      "wind": {
+        "direction": 5,
+        "gust": 6.1,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "fair_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T17:00:00+01:00",
+      "end": "2024-11-21T18:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 125,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 88,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -1.7,
+        "probability": {
+          "tenPercentile": -3.7,
+          "ninetyPercentile": 0.1
+        }
+      },
+      "wind": {
+        "direction": 11,
+        "gust": 4.9,
+        "speed": 2.5,
+        "probability": {
+          "tenPercentile": 2.5,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T18:00:00+01:00",
+      "end": "2024-11-21T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 125,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 100,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -2.2,
+        "probability": {
+          "tenPercentile": -4.3,
+          "ninetyPercentile": -0.3
+        }
+      },
+      "wind": {
+        "direction": 1,
+        "gust": 4.7,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 4.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T19:00:00+01:00",
+      "end": "2024-11-21T20:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 53,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -2.6,
+        "probability": {
+          "tenPercentile": -4.6,
+          "ninetyPercentile": -0.7
+        }
+      },
+      "wind": {
+        "direction": 359,
+        "gust": 5.5,
+        "speed": 3.3,
+        "probability": {
+          "tenPercentile": 2.9,
+          "ninetyPercentile": 4.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T20:00:00+01:00",
+      "end": "2024-11-21T21:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 122,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 16,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -3,
+        "probability": {
+          "tenPercentile": -5.2,
+          "ninetyPercentile": -0.9
+        }
+      },
+      "wind": {
+        "direction": 350,
+        "gust": 5.5,
+        "speed": 3.6,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T21:00:00+01:00",
+      "end": "2024-11-21T22:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 119,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 356,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -3.4,
+        "probability": {
+          "tenPercentile": -5.7,
+          "ninetyPercentile": -1.2
+        }
+      },
+      "wind": {
+        "direction": 336,
+        "gust": 5.5,
+        "speed": 3.4,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-21T22:00:00+01:00",
+      "end": "2024-11-21T23:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 99,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 345,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -3.7,
+        "probability": {
+          "tenPercentile": -6.1,
+          "ninetyPercentile": -1.5
+        }
+      },
+      "wind": {
+        "direction": 322,
+        "gust": 6.2,
+        "speed": 4.1,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-21T23:00:00+01:00",
+      "end": "2024-11-22T00:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 320,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 344,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4,
+        "probability": {
+          "tenPercentile": -6.3,
+          "ninetyPercentile": -1.8
+        }
+      },
+      "wind": {
+        "direction": 335,
+        "gust": 6.1,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 3.5,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T00:00:00+01:00",
+      "end": "2024-11-22T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 312,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 348,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.2,
+        "probability": {
+          "tenPercentile": -6.7,
+          "ninetyPercentile": -1.9
+        }
+      },
+      "wind": {
+        "direction": 326,
+        "gust": 6,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T01:00:00+01:00",
+      "end": "2024-11-22T02:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 311,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 354,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.4,
+        "probability": {
+          "tenPercentile": -6.7,
+          "ninetyPercentile": -2.2
+        }
+      },
+      "wind": {
+        "direction": 324,
+        "gust": 6.7,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T02:00:00+01:00",
+      "end": "2024-11-22T03:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 309,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 11,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -4.6,
+        "probability": {
+          "tenPercentile": -7,
+          "ninetyPercentile": -2.4
+        }
+      },
+      "wind": {
+        "direction": 326,
+        "gust": 7.1,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T03:00:00+01:00",
+      "end": "2024-11-22T04:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 309,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 49,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -4.7,
+        "probability": {
+          "tenPercentile": -7.1,
+          "ninetyPercentile": -2.3
+        }
+      },
+      "wind": {
+        "direction": 327,
+        "gust": 7.3,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 4.9
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T04:00:00+01:00",
+      "end": "2024-11-22T05:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 312,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 50,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -4.8,
+        "probability": {
+          "tenPercentile": -7.3,
+          "ninetyPercentile": -2.4
+        }
+      },
+      "wind": {
+        "direction": 328,
+        "gust": 7.4,
+        "speed": 5,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T05:00:00+01:00",
+      "end": "2024-11-22T06:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 314,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 26,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -4.9,
+        "probability": {
+          "tenPercentile": -7.3,
+          "ninetyPercentile": -2.6
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 7.9,
+        "speed": 5.3,
+        "probability": {
+          "tenPercentile": 3.2,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T06:00:00+01:00",
+      "end": "2024-11-22T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 318,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 7,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.8,
+        "probability": {
+          "tenPercentile": -7.2,
+          "ninetyPercentile": -2.5
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 8,
+        "speed": 5.2,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T07:00:00+01:00",
+      "end": "2024-11-22T08:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 322,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 354,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.7,
+        "probability": {
+          "tenPercentile": -7.1,
+          "ninetyPercentile": -2.5
+        }
+      },
+      "wind": {
+        "direction": 329,
+        "gust": 7.8,
+        "speed": 4.9,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T08:00:00+01:00",
+      "end": "2024-11-22T09:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 329,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 347,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": -4.7,
+        "probability": {
+          "tenPercentile": -7.1,
+          "ninetyPercentile": -2.5
+        }
+      },
+      "wind": {
+        "direction": 331,
+        "gust": 7.4,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T09:00:00+01:00",
+      "end": "2024-11-22T10:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 334,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 338,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -4.6,
+        "probability": {
+          "tenPercentile": -7,
+          "ninetyPercentile": -2.4
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 4.8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T10:00:00+01:00",
+      "end": "2024-11-22T11:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 328,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 333,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -4,
+        "probability": {
+          "tenPercentile": -6.2,
+          "ninetyPercentile": -1.9
+        }
+      },
+      "wind": {
+        "direction": 326,
+        "gust": 7.8,
+        "speed": 5.2,
+        "probability": {
+          "tenPercentile": 4,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T11:00:00+01:00",
+      "end": "2024-11-22T12:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 323,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 332,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -3.1,
+        "probability": {
+          "tenPercentile": -5.1,
+          "ninetyPercentile": -1.2
+        }
+      },
+      "wind": {
+        "direction": 322,
+        "gust": 8.3,
+        "speed": 5.4,
+        "probability": {
+          "tenPercentile": 4.2,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T12:00:00+01:00",
+      "end": "2024-11-22T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 323,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 331,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -2.4,
+        "probability": {
+          "tenPercentile": -4.4,
+          "ninetyPercentile": -0.5
+        }
+      },
+      "wind": {
+        "direction": 318,
+        "gust": 8.2,
+        "speed": 5,
+        "probability": {
+          "tenPercentile": 4.2,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T13:00:00+01:00",
+      "end": "2024-11-22T14:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 324,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 334,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": -1.7,
+        "probability": {
+          "tenPercentile": -3.6,
+          "ninetyPercentile": 0.2
+        }
+      },
+      "wind": {
+        "direction": 317,
+        "gust": 7.6,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "fair_day"
+      }
+    },
+    {
+      "start": "2024-11-22T14:00:00+01:00",
+      "end": "2024-11-22T15:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 323,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 320,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": -1.1,
+        "probability": {
+          "tenPercentile": -3,
+          "ninetyPercentile": 0.8
+        }
+      },
+      "wind": {
+        "direction": 307,
+        "gust": 7.1,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      }
+    },
+    {
+      "start": "2024-11-22T15:00:00+01:00",
+      "end": "2024-11-22T16:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 320,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 252,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "probability": {
+          "tenPercentile": -3.1,
+          "ninetyPercentile": 0.9
+        }
+      },
+      "wind": {
+        "direction": 298,
+        "gust": 6.1,
+        "speed": 3.3,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T16:00:00+01:00",
+      "end": "2024-11-22T17:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 320,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 187,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "probability": {
+          "tenPercentile": -3.3,
+          "ninetyPercentile": 1
+        }
+      },
+      "wind": {
+        "direction": 281,
+        "gust": 6.5,
+        "speed": 4.3,
+        "probability": {
+          "tenPercentile": 3.5,
+          "ninetyPercentile": 4.8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T17:00:00+01:00",
+      "end": "2024-11-22T18:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 322,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 203,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": -0.9,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": 1.3
+        }
+      },
+      "wind": {
+        "direction": 274,
+        "gust": 7.5,
+        "speed": 5.1,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 5.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T18:00:00+01:00",
+      "end": "2024-11-22T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 325,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 211,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": 1.2
+        }
+      },
+      "wind": {
+        "direction": 303,
+        "gust": 7.6,
+        "speed": 4,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T19:00:00+01:00",
+      "end": "2024-11-22T20:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 327,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 207,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.8
+        }
+      },
+      "temperature": {
+        "value": -1.2,
+        "probability": {
+          "tenPercentile": -3.8,
+          "ninetyPercentile": 1.1
+        }
+      },
+      "wind": {
+        "direction": 308,
+        "gust": 6.9,
+        "speed": 4.7,
+        "probability": {
+          "tenPercentile": 3.1,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "fair_night",
+        "next12Hours": "partlycloudy_night"
+      }
+    },
+    {
+      "start": "2024-11-22T20:00:00+01:00",
+      "end": "2024-11-22T21:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 329,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 226,
+          "height": 0.3
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -0.9,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": 1.4
+        }
+      },
+      "wind": {
+        "direction": 310,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 5.1
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T21:00:00+01:00",
+      "end": "2024-11-22T22:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 328,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 222,
+          "height": 0.4
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "probability": {
+          "tenPercentile": -3.7,
+          "ninetyPercentile": 1.5
+        }
+      },
+      "wind": {
+        "direction": 306,
+        "gust": 7.1,
+        "speed": 4.7,
+        "probability": {
+          "tenPercentile": 3.2,
+          "ninetyPercentile": 5.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-22T22:00:00+01:00",
+      "end": "2024-11-22T23:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 323,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 226,
+          "height": 0.4
+        },
+        "temperature": {
+          "value": 9.1
+        }
+      },
+      "temperature": {
+        "value": -0.8,
+        "probability": {
+          "tenPercentile": -3.6,
+          "ninetyPercentile": 1.6
+        }
+      },
+      "wind": {
+        "direction": 306,
+        "gust": 7.7,
+        "speed": 5,
+        "probability": {
+          "tenPercentile": 3.1,
+          "ninetyPercentile": 6.1
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night"
+      }
+    },
+    {
+      "start": "2024-11-22T23:00:00+01:00",
+      "end": "2024-11-23T00:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 312,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 224,
+          "height": 0.4
+        },
+        "temperature": {
+          "value": 9.2
+        }
+      },
+      "temperature": {
+        "value": -0.5,
+        "probability": {
+          "tenPercentile": -3.3,
+          "ninetyPercentile": 2
+        }
+      },
+      "wind": {
+        "direction": 300,
+        "gust": 7.4,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 7.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night"
+      }
+    },
+    {
+      "start": "2024-11-23T00:00:00+01:00",
+      "end": "2024-11-23T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 305,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 223,
+          "height": 0.5
+        },
+        "temperature": {
+          "value": 9.3
+        }
+      },
+      "temperature": {
+        "value": 0,
+        "probability": {
+          "tenPercentile": -2.9,
+          "ninetyPercentile": 2.5
+        }
+      },
+      "wind": {
+        "direction": 297,
+        "gust": 7.1,
+        "speed": 4.7,
+        "probability": {
+          "tenPercentile": 3.5,
+          "ninetyPercentile": 8
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night"
+      }
+    }
+  ],
+  "longIntervals": [
+    {
+      "start": "2024-11-20T19:00:00+01:00",
+      "end": "2024-11-21T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 118,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 119,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.8
+        }
+      },
+      "temperature": {
+        "value": -0.6,
+        "min": -1.6,
+        "max": -0.8,
+        "probability": {
+          "tenPercentile": -1.4,
+          "ninetyPercentile": 0.4
+        }
+      },
+      "wind": {
+        "direction": 340,
+        "gust": 6.6,
+        "speed": 4.3,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      },
+      "nominalStart": "2024-11-20T18:00:00+01:00",
+      "nominalEnd": "2024-11-21T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-21T00:00:00+01:00",
+      "end": "2024-11-21T06:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 117,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 358,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9.6
+        }
+      },
+      "temperature": {
+        "value": -1.5,
+        "min": -2.3,
+        "max": -1.6,
+        "probability": {
+          "tenPercentile": -2.9,
+          "ninetyPercentile": -0.1
+        }
+      },
+      "wind": {
+        "direction": 328,
+        "gust": 6.9,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 5.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-21T00:00:00+01:00",
+      "nominalEnd": "2024-11-21T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-21T06:00:00+01:00",
+      "end": "2024-11-21T12:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 325,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 9
+        }
+      },
+      "temperature": {
+        "value": -2.3,
+        "min": -2.2,
+        "max": -0.3,
+        "probability": {
+          "tenPercentile": -4,
+          "ninetyPercentile": -0.7
+        }
+      },
+      "wind": {
+        "direction": 333,
+        "gust": 7.2,
+        "speed": 4.8,
+        "probability": {
+          "tenPercentile": 3.8,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-21T06:00:00+01:00",
+      "nominalEnd": "2024-11-21T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-21T12:00:00+01:00",
+      "end": "2024-11-21T18:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 124,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 326,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -0.3,
+        "min": -2.2,
+        "max": 0.1,
+        "probability": {
+          "tenPercentile": -1.9,
+          "ninetyPercentile": 1
+        }
+      },
+      "wind": {
+        "direction": 340,
+        "gust": 6.3,
+        "speed": 3.8,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-21T12:00:00+01:00",
+      "nominalEnd": "2024-11-21T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-21T18:00:00+01:00",
+      "end": "2024-11-22T00:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 125,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 100,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -2.2,
+        "min": -4.2,
+        "max": -2.6,
+        "probability": {
+          "tenPercentile": -4.3,
+          "ninetyPercentile": -0.3
+        }
+      },
+      "wind": {
+        "direction": 1,
+        "gust": 4.7,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 4.3
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      },
+      "nominalStart": "2024-11-21T18:00:00+01:00",
+      "nominalEnd": "2024-11-22T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-22T00:00:00+01:00",
+      "end": "2024-11-22T06:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 312,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 348,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.2,
+        "min": -4.9,
+        "max": -4.4,
+        "probability": {
+          "tenPercentile": -6.7,
+          "ninetyPercentile": -1.9
+        }
+      },
+      "wind": {
+        "direction": 326,
+        "gust": 6,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-22T00:00:00+01:00",
+      "nominalEnd": "2024-11-22T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-22T06:00:00+01:00",
+      "end": "2024-11-22T12:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 318,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 7,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -4.8,
+        "min": -4.7,
+        "max": -2.4,
+        "probability": {
+          "tenPercentile": -7.2,
+          "ninetyPercentile": -2.5
+        }
+      },
+      "wind": {
+        "direction": 330,
+        "gust": 8,
+        "speed": 5.2,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 5.2
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-22T06:00:00+01:00",
+      "nominalEnd": "2024-11-22T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-22T12:00:00+01:00",
+      "end": "2024-11-22T18:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 323,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 331,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.9
+        }
+      },
+      "temperature": {
+        "value": -2.4,
+        "min": -1.7,
+        "max": -0.9,
+        "probability": {
+          "tenPercentile": -4.4,
+          "ninetyPercentile": -0.5
+        }
+      },
+      "wind": {
+        "direction": 318,
+        "gust": 8.2,
+        "speed": 5,
+        "probability": {
+          "tenPercentile": 4.2,
+          "ninetyPercentile": 5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-22T12:00:00+01:00",
+      "nominalEnd": "2024-11-22T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-22T18:00:00+01:00",
+      "end": "2024-11-23T00:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 325,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 211,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": -1,
+        "min": -1.2,
+        "max": 0,
+        "probability": {
+          "tenPercentile": -3.5,
+          "ninetyPercentile": 1.2
+        }
+      },
+      "wind": {
+        "direction": 303,
+        "gust": 7.6,
+        "speed": 4,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "fair_night"
+      },
+      "nominalStart": "2024-11-22T18:00:00+01:00",
+      "nominalEnd": "2024-11-23T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-23T01:00:00+01:00",
+      "end": "2024-11-23T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 306,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 223,
+          "height": 0.5
+        },
+        "temperature": {
+          "value": 9.4
+        }
+      },
+      "temperature": {
+        "value": 0.1,
+        "min": 1.5,
+        "max": 2.1,
+        "probability": {
+          "tenPercentile": -2.9,
+          "ninetyPercentile": 2.7
+        }
+      },
+      "wind": {
+        "direction": 277,
+        "gust": 8,
+        "speed": 5.2,
+        "probability": {
+          "tenPercentile": 3.5,
+          "ninetyPercentile": 7.5
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "nominalStart": "2024-11-23T00:00:00+01:00",
+      "nominalEnd": "2024-11-23T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-23T07:00:00+01:00",
+      "end": "2024-11-23T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 307,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 204,
+          "height": 0.6
+        },
+        "temperature": {
+          "value": 9.1
+        }
+      },
+      "temperature": {
+        "value": 2.1,
+        "min": 1.6,
+        "max": 3.8,
+        "probability": {
+          "tenPercentile": -0.1,
+          "ninetyPercentile": 2.8
+        }
+      },
+      "wind": {
+        "direction": 296,
+        "speed": 6.1,
+        "probability": {
+          "tenPercentile": 4.3,
+          "ninetyPercentile": 8.3
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "nominalStart": "2024-11-23T06:00:00+01:00",
+      "nominalEnd": "2024-11-23T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-23T13:00:00+01:00",
+      "end": "2024-11-23T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 299,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 204,
+          "height": 0.6
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": 3.8,
+        "min": 0.9,
+        "max": 3.8,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "wind": {
+        "direction": 299,
+        "speed": 4.5,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 6
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "cloudy"
+      },
+      "nominalStart": "2024-11-23T12:00:00+01:00",
+      "nominalEnd": "2024-11-23T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-23T19:00:00+01:00",
+      "end": "2024-11-24T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 135,
+          "speed": 20
+        },
+        "wave": {
+          "direction": 203,
+          "height": 0.7
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": 1.1,
+        "min": -0.1,
+        "max": 2.2,
+        "probability": {
+          "tenPercentile": -0.3,
+          "ninetyPercentile": 2.2
+        }
+      },
+      "wind": {
+        "direction": 294,
+        "speed": 2.6,
+        "probability": {
+          "tenPercentile": 1,
+          "ninetyPercentile": 4.3
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "lightrain"
+      },
+      "nominalStart": "2024-11-23T18:00:00+01:00",
+      "nominalEnd": "2024-11-24T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-24T01:00:00+01:00",
+      "end": "2024-11-24T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 118,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 204,
+          "height": 0.5
+        },
+        "temperature": {
+          "value": 8.1
+        }
+      },
+      "temperature": {
+        "value": 2.2,
+        "min": 2.2,
+        "max": 5.3,
+        "probability": {
+          "tenPercentile": -0.5,
+          "ninetyPercentile": 5.7
+        }
+      },
+      "wind": {
+        "direction": 32,
+        "speed": 3.7,
+        "probability": {
+          "tenPercentile": 1.8,
+          "ninetyPercentile": 10.2
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "rain"
+      },
+      "nominalStart": "2024-11-24T00:00:00+01:00",
+      "nominalEnd": "2024-11-24T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-24T07:00:00+01:00",
+      "end": "2024-11-24T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 115,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 172,
+          "height": 1.4
+        },
+        "temperature": {
+          "value": 8.5
+        }
+      },
+      "temperature": {
+        "value": 5.3,
+        "min": 4.4,
+        "max": 6.7,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 6.3
+        }
+      },
+      "wind": {
+        "direction": 148,
+        "speed": 12.1,
+        "probability": {
+          "tenPercentile": 7,
+          "ninetyPercentile": 14.7
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "heavyrain",
+        "next12Hours": "rain"
+      },
+      "nominalStart": "2024-11-24T06:00:00+01:00",
+      "nominalEnd": "2024-11-24T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-24T13:00:00+01:00",
+      "end": "2024-11-24T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 105,
+          "speed": 30
+        },
+        "wave": {
+          "direction": 166,
+          "height": 3.3
+        },
+        "temperature": {
+          "value": 8.7
+        }
+      },
+      "temperature": {
+        "value": 6.7,
+        "min": 4.1,
+        "max": 6.7,
+        "probability": {
+          "tenPercentile": 4.2,
+          "ninetyPercentile": 9.5
+        }
+      },
+      "wind": {
+        "direction": 111,
+        "speed": 10.6,
+        "probability": {
+          "tenPercentile": 4.8,
+          "ninetyPercentile": 13.4
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "lightrain"
+      },
+      "nominalStart": "2024-11-24T12:00:00+01:00",
+      "nominalEnd": "2024-11-24T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-24T19:00:00+01:00",
+      "end": "2024-11-25T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 308,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 176,
+          "height": 2.6
+        },
+        "temperature": {
+          "value": 8.6
+        }
+      },
+      "temperature": {
+        "value": 4.7,
+        "min": 4.7,
+        "max": 8.3,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 10.3
+        }
+      },
+      "wind": {
+        "direction": 211,
+        "speed": 5.2,
+        "probability": {
+          "tenPercentile": 2.3,
+          "ninetyPercentile": 14.9
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "lightrain"
+      },
+      "nominalStart": "2024-11-24T18:00:00+01:00",
+      "nominalEnd": "2024-11-25T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-25T01:00:00+01:00",
+      "end": "2024-11-25T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 306,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 198,
+          "height": 2.8
+        },
+        "temperature": {
+          "value": 8.2
+        }
+      },
+      "temperature": {
+        "value": 8.3,
+        "min": 7.7,
+        "max": 9.3,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 10.3
+        }
+      },
+      "wind": {
+        "direction": 215,
+        "speed": 9.3,
+        "probability": {
+          "tenPercentile": 1.8,
+          "ninetyPercentile": 14.1
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "lightrain"
+      },
+      "nominalStart": "2024-11-25T00:00:00+01:00",
+      "nominalEnd": "2024-11-25T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-25T07:00:00+01:00",
+      "end": "2024-11-25T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 144,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 199,
+          "height": 3.2
+        },
+        "temperature": {
+          "value": 10
+        }
+      },
+      "temperature": {
+        "value": 9.3,
+        "min": 9.1,
+        "max": 9.4,
+        "probability": {
+          "tenPercentile": 7.1,
+          "ninetyPercentile": 10.5
+        }
+      },
+      "wind": {
+        "direction": 213,
+        "speed": 10.5,
+        "probability": {
+          "tenPercentile": 4.6,
+          "ninetyPercentile": 15.2
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "cloudy"
+      },
+      "nominalStart": "2024-11-25T06:00:00+01:00",
+      "nominalEnd": "2024-11-25T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-25T13:00:00+01:00",
+      "end": "2024-11-25T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 178,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 200,
+          "height": 3.7
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 9.4,
+        "min": 8.6,
+        "max": 9.4,
+        "probability": {
+          "tenPercentile": 7.8,
+          "ninetyPercentile": 10.2
+        }
+      },
+      "wind": {
+        "direction": 213,
+        "speed": 10.3,
+        "probability": {
+          "tenPercentile": 4.5,
+          "ninetyPercentile": 15.9
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "lightrain"
+      },
+      "nominalStart": "2024-11-25T12:00:00+01:00",
+      "nominalEnd": "2024-11-25T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-25T19:00:00+01:00",
+      "end": "2024-11-26T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 129,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 201,
+          "height": 3.2
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 8.6,
+        "min": 8.5,
+        "max": 8.6,
+        "probability": {
+          "tenPercentile": 6.7,
+          "ninetyPercentile": 9.4
+        }
+      },
+      "wind": {
+        "direction": 209,
+        "speed": 10.7,
+        "probability": {
+          "tenPercentile": 4.6,
+          "ninetyPercentile": 14.7
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "lightrainshowers_day"
+      },
+      "nominalStart": "2024-11-25T18:00:00+01:00",
+      "nominalEnd": "2024-11-26T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-26T01:00:00+01:00",
+      "end": "2024-11-26T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 49,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 203,
+          "height": 2.8
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 8.6,
+        "min": 7.9,
+        "max": 8.6,
+        "probability": {
+          "tenPercentile": 5.9,
+          "ninetyPercentile": 9.1
+        }
+      },
+      "wind": {
+        "direction": 212,
+        "speed": 10.3,
+        "probability": {
+          "tenPercentile": 4.7,
+          "ninetyPercentile": 14.5
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "partlycloudy_day"
+      },
+      "nominalStart": "2024-11-26T00:00:00+01:00",
+      "nominalEnd": "2024-11-26T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-26T07:00:00+01:00",
+      "end": "2024-11-26T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 64,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 204,
+          "height": 2.5
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 8.4,
+        "min": 7,
+        "max": 8.4,
+        "probability": {
+          "tenPercentile": 3.9,
+          "ninetyPercentile": 9.5
+        }
+      },
+      "wind": {
+        "direction": 212,
+        "speed": 9.1,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 15.2
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "nominalStart": "2024-11-26T06:00:00+01:00",
+      "nominalEnd": "2024-11-26T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-26T13:00:00+01:00",
+      "end": "2024-11-26T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 61,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 204,
+          "height": 2
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 8.2,
+        "min": 5.6,
+        "max": 8.2,
+        "probability": {
+          "tenPercentile": 5,
+          "ninetyPercentile": 9.3
+        }
+      },
+      "wind": {
+        "direction": 213,
+        "speed": 8.9,
+        "probability": {
+          "tenPercentile": 3.3,
+          "ninetyPercentile": 13.9
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-26T12:00:00+01:00",
+      "nominalEnd": "2024-11-26T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-26T19:00:00+01:00",
+      "end": "2024-11-27T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 61,
+          "speed": 10
+        },
+        "wave": {
+          "direction": 205,
+          "height": 1.6
+        },
+        "temperature": {
+          "value": 10.1
+        }
+      },
+      "temperature": {
+        "value": 5.6,
+        "min": 3.8,
+        "max": 5.6,
+        "probability": {
+          "tenPercentile": 2,
+          "ninetyPercentile": 8.4
+        }
+      },
+      "wind": {
+        "direction": 235,
+        "speed": 6.7,
+        "probability": {
+          "tenPercentile": 3.6,
+          "ninetyPercentile": 12.1
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_night"
+      },
+      "nominalStart": "2024-11-26T18:00:00+01:00",
+      "nominalEnd": "2024-11-27T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-27T01:00:00+01:00",
+      "end": "2024-11-27T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 59,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 206,
+          "height": 1.3
+        },
+        "temperature": {
+          "value": 10.3
+        }
+      },
+      "temperature": {
+        "value": 3.9,
+        "min": 2.5,
+        "max": 3.9,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 7.3
+        }
+      },
+      "wind": {
+        "direction": 22,
+        "speed": 5.1,
+        "probability": {
+          "tenPercentile": 3,
+          "ninetyPercentile": 10.1
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "fair_night",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-27T00:00:00+01:00",
+      "nominalEnd": "2024-11-27T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-27T07:00:00+01:00",
+      "end": "2024-11-27T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 57,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 206,
+          "height": 0.9
+        },
+        "temperature": {
+          "value": 10.3
+        }
+      },
+      "temperature": {
+        "value": 2.5,
+        "min": 1,
+        "max": 3.6,
+        "probability": {
+          "tenPercentile": -0.3,
+          "ninetyPercentile": 6.3
+        }
+      },
+      "wind": {
+        "direction": 334,
+        "speed": 4.5,
+        "probability": {
+          "tenPercentile": 2.3,
+          "ninetyPercentile": 9
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "fair_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "nominalStart": "2024-11-27T06:00:00+01:00",
+      "nominalEnd": "2024-11-27T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-27T13:00:00+01:00",
+      "end": "2024-11-27T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 79,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 206,
+          "height": 0.5
+        },
+        "temperature": {
+          "value": 10.3
+        }
+      },
+      "temperature": {
+        "value": 3.6,
+        "min": 3.3,
+        "max": 3.6,
+        "probability": {
+          "tenPercentile": 2,
+          "ninetyPercentile": 6.2
+        }
+      },
+      "wind": {
+        "direction": 15,
+        "speed": 4.3,
+        "probability": {
+          "tenPercentile": 2,
+          "ninetyPercentile": 7.8
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "nominalStart": "2024-11-27T12:00:00+01:00",
+      "nominalEnd": "2024-11-27T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-27T19:00:00+01:00",
+      "end": "2024-11-28T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 79,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 207,
+          "height": 0.3
+        },
+        "temperature": {
+          "value": 10.3
+        }
+      },
+      "temperature": {
+        "value": 3.6,
+        "min": 1.5,
+        "max": 3.6,
+        "probability": {
+          "tenPercentile": 0.1,
+          "ninetyPercentile": 5.1
+        }
+      },
+      "wind": {
+        "direction": 23,
+        "speed": 4.9,
+        "probability": {
+          "tenPercentile": 2.5,
+          "ninetyPercentile": 8.5
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_night"
+      },
+      "nominalStart": "2024-11-27T18:00:00+01:00",
+      "nominalEnd": "2024-11-28T00:00:00+01:00"
+    },
+    {
+      "start": "2024-11-28T01:00:00+01:00",
+      "end": "2024-11-28T07:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 119,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 208,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 10.3
+        }
+      },
+      "temperature": {
+        "value": 1.8,
+        "min": 0.6,
+        "max": 1.8,
+        "probability": {
+          "tenPercentile": -1,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "wind": {
+        "direction": 22,
+        "speed": 4.7,
+        "probability": {
+          "tenPercentile": 2.7,
+          "ninetyPercentile": 8.6
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-28T00:00:00+01:00",
+      "nominalEnd": "2024-11-28T06:00:00+01:00"
+    },
+    {
+      "start": "2024-11-28T07:00:00+01:00",
+      "end": "2024-11-28T13:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 340,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 207,
+          "height": 0.2
+        },
+        "temperature": {
+          "value": 10.2
+        }
+      },
+      "temperature": {
+        "value": 0.6,
+        "min": 0.4,
+        "max": 2.4,
+        "probability": {
+          "tenPercentile": -1.3,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "wind": {
+        "direction": 23,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 2.3,
+          "ninetyPercentile": 7.9
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-28T06:00:00+01:00",
+      "nominalEnd": "2024-11-28T12:00:00+01:00"
+    },
+    {
+      "start": "2024-11-28T13:00:00+01:00",
+      "end": "2024-11-28T19:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 7,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 207,
+          "height": 0.1
+        },
+        "temperature": {
+          "value": 10.2
+        }
+      },
+      "temperature": {
+        "value": 2.4,
+        "min": 0.7,
+        "max": 2.4,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 5.1
+        }
+      },
+      "wind": {
+        "direction": 24,
+        "speed": 4.1,
+        "probability": {
+          "tenPercentile": 1.8,
+          "ninetyPercentile": 7.8
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "nominalStart": "2024-11-28T12:00:00+01:00",
+      "nominalEnd": "2024-11-28T18:00:00+01:00"
+    },
+    {
+      "start": "2024-11-28T19:00:00+01:00",
+      "end": "2024-11-29T01:00:00+01:00",
+      "sea": {
+        "current": {
+          "direction": 31,
+          "speed": 0
+        },
+        "wave": {
+          "direction": 183,
+          "height": 0.3
+        },
+        "temperature": {
+          "value": 10.2
+        }
+      },
+      "temperature": {
+        "value": 1,
+        "min": -0.3,
+        "max": 1,
+        "probability": {
+          "tenPercentile": -0.8,
+          "ninetyPercentile": 4.9
+        }
+      },
+      "wind": {
+        "direction": 23,
+        "speed": 4.6,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 8.7
+        }
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_night"
+      },
+      "nominalStart": "2024-11-28T18:00:00+01:00",
+      "nominalEnd": "2024-11-29T00:00:00+01:00"
+    }
+  ],
+  "status": {
+    "code": "Ok"
+  },
+  "_links": {
+    "self": {
+      "href": "/api/v0/locations/1-2275032/oceanforecast"
+    },
+    "parent": {
+      "href": "/api/v0/locations/1-2275032"
+    }
+  }
+}
