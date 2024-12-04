@@ -12,7 +12,7 @@
         <th>Temp</th>
       </tr>
       </thead>
-      <tbody >
+      <tbody>
         <tr v-for="item in data?.rows?.dayIntervals">
           <td>{{ item.start}} </td>
           <td>{{ item.wind.min }} - {{ item.wind.max }} ms</td>

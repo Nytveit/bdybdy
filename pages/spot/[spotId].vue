@@ -2,10 +2,10 @@
   <div>
     <h1>Weather Data from Saltstein</h1>
     
-    <table v-if="data.headers?.length">
+    <table>
       <thead>
         <tr>
-            <th v-for="header in data.headers" :key="header">{{ header }}</th>
+          <th>test</th>        
         </tr>
       </thead>
       <tbody>
@@ -24,7 +24,7 @@ import { ref } from 'vue';
 const headers = ref([]);
 const rows = ref([]);
 
-const { data } = await useFetch('/api/forecast/saltstein');
+const { data } = await useFetch('/api/forecast/detailed/saltstein');
 
 if (data?.headers?.length > 0) {
   headers.value = data.headers;

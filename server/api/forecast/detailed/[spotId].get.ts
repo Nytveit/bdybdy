@@ -15,6 +15,7 @@ export default defineEventHandler(async () => {
         // Load HTML into Cheerio
         const $ = load(html);
 
+
         // Extract table rows
         const tableRows = [];
         $('table tbody tr').each((i, el) => {
@@ -25,8 +26,8 @@ export default defineEventHandler(async () => {
         // Extract table headers
         const headers = $('table thead tr th').map((_, el) => $(el).text().trim()).get();
 
-        console.log("headers", tableRows, headers);
-        return { headers, rows: tableRows };
+        console.log("headers", tableRows);
+        return { rows: tableRows };
     } catch (error) {
         return { error: 'Failed to scrape data', details: error.message };
     }
