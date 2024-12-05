@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <header>My header</header>
+    <header><v-menu>Main menu</v-menu></header>
     <slot />
   </v-app>
 </template>
